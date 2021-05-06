@@ -11,7 +11,7 @@
                 ],
                 "messages": {
                     "general.main_cta": "get started",
-                    "general.main_cta_target": "https://play.bears.finance",
+                    "general.main_cta_target": "https://market.bears.finance?play",
                     "general.secondary_cta": "",
                     "general.secondary_cta_target": "",
                     "general.discord_cta": "join our telegram",
@@ -29,7 +29,7 @@
                     "index.explore.subtitle": "Lose yourself in an amazing, evolving world",
                     "index.explore.description": "Explore LANDs owned by users to experience incredible scenes and structures. From a space adventure to a medieval dungeon maze to entire villages crafted from the minds of community members.",
                     "index.explore.main_cta": "start exploring",
-                    "index.explore.main_cta_target": "https://play.bears.finance/",
+                    "index.explore.main_cta_target": "https://market.bears.finance?play/",
                     "index.explore.secondary_cta": "",
                     "index.explore.secondary_cta_target": "",
                     "index.create.title": "Create",
