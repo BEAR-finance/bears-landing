@@ -10,13 +10,13 @@
                     "en"
                 ],
                 "messages": {
-                    "general.main_cta": "invest",
+                    "general.main_cta": "Commit",
                     "general.main_cta_target": "https://market.bears.finance?play",
                     "general.secondary_cta": "",
                     "general.secondary_cta_target": "",
                     "general.discord_cta": "join our telegram",
                     "general.discord_cta_target": "https://t.me/bearstalk",
-                    "index.social.title": "Welcome to Bearland",
+                    "index.social.title": "Bears.Finance | Cross-chain Metaverse Aggregator",
                     "index.social.description": "Create, Trade, Explore NFT accross virtual worlds on any EVM based blockchain",
                     "index.mobile_modal.description": "Bearland is currently only available via desktop. Enter your email to be notified as soon as we’re on mobile devices.",
                     "index.mobile_modal.placeholder": "email@domain.com",
